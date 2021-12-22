@@ -5,11 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
+<title>Registration Page VENKY TECH DEVOPS</title>
+<title>Registration Page VENKY TECH DEVOPS</title>
 <title>DEMO PAGE </title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
+<title>Registration Page VENKY TECH DEVOPS</title>
+<title>Registration Page VENKY TECH DEVOPS</title>
 
 </head>
 <body>
@@ -60,7 +60,7 @@
 		</tr>
 	</table>
 </form:form>
-<table width="50%" bgcolor="yellow" align="center">
+<table width="50%" bgcolor="brown" align="center">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
